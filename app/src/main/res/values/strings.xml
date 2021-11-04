@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TSP_Swipe_Button</string>
+    <string name="blog" />
+    <string name="follow" />
 </resources>
